@@ -14,3 +14,4 @@ pip install -r requirements.txt
 python main.py
 
 Made by Shivam Patel Github:@shivamapatel03
+ADD THE FOLDER AFTER DOWNLOAD:- 
